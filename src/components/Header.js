@@ -2,7 +2,17 @@ import React from 'react'
 
 function Header() {
   return (
-    <div>Header</div>
+    <div className='container flex content-between'>
+      <div>
+        Logo
+      </div>
+      <div>
+        Search
+      </div>
+      <div>
+        Login
+      </div>
+    </div>
   )
 }
 
