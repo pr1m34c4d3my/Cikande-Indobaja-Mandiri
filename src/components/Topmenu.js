@@ -9,10 +9,10 @@ function Topmenu() {
           <h3>No Telpon</h3>
           <h3>info@cikandeindobaja.co.id</h3>
         </div>
-        <div className='w-4/12'>
+        <div className='w-6/12'>
 
         </div>
-        <div className='flex justify-between w-4/12'>
+        <div className='flex justify-between w-2/12'>
           <h3>Blog</h3>
           <h3>About Us</h3>
           <h3>Careers</h3>
