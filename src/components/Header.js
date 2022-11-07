@@ -7,7 +7,7 @@ function Header() {
         <div className=''>
           Logo
         </div>
-        <div className=''>
+        <div className=' bg-slate-50 text-black'>
           Search
         </div>
         <div className=''>
