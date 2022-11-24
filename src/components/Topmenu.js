@@ -8,7 +8,7 @@ function Topmenu() {
           <h3 className="text-[#ff9191] hover:text-[#e70302] transition-all">
             Chat With Us
           </h3>
-          <h3>No Telpon</h3>
+          <h3>+62 811-1260-555</h3>
           <h3>info@cikandeindobaja.co.id</h3>
         </div>
         <div className="w-6/12"></div>
