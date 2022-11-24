@@ -4,10 +4,10 @@ import searchLogo from "../assets/search.svg";
 
 function Header() {
   return (
-    <div className=" bg-[#575757]">
+    <div className=" bg-[white]">
       <div className="mx-auto py-5 container w-full flex justify-between ">
-        <div className="w-4/12">
-          <img className="w-[70%]" src={mainLogo} alt="logo" />
+        <div className="w-3/12 ">
+          <img className="w-[100%]" src={mainLogo} alt="logo" />
         </div>
         <div className="w-4/12 flex justify-around items-center border rounded-2xl bg-slate-50 text-black ">
           <form className="flex gap-10">

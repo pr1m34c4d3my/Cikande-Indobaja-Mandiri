@@ -1,4 +1,6 @@
 import React from "react";
+import { Swiper, SwiperSlide } from "swiper/react";
+import "swiper/css";
 import slidePertama from "../assets/slider1.jpg";
 
 function Slider() {
