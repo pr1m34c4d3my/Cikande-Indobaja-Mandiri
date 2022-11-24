@@ -3,7 +3,7 @@ import arrow from "../assets/downArrow.svg";
 
 function Categorymenu() {
   return (
-    <div className="bg-[#575757] shadow-2xl sticky top-0 z-20">
+    <div className="bg-[#8b8b8b] shadow-2xl sticky top-0 z-20">
       <nav className="mx-auto py-5">
         <ul className="flex mx-auto justify-center gap-20">
           <li className="flex items-center gap-3">
