@@ -6,14 +6,14 @@ function Footer() {
       <div className="flex flex-col mx-40 ">
         <div className="flex flex-row justify-between">
           <div className="flex flex-col gap-5">
-            <h1 className="font-bold text-[20px]">Get In Touch</h1>
+            <h1 className="font-bold text-[20px]">Kenali Kami</h1>
             <ul className="flex flex-col gap-5">
               <li>
                 <a
                   href="#"
                   className="font-light text-[#e46161] hover:font-normal hover:text-[#e70302] transition-all"
                 >
-                  About Us
+                  Tentang Kami
                 </a>
               </li>
               <li>
@@ -21,7 +21,7 @@ function Footer() {
                   href="#"
                   className="font-light text-[#e46161] hover:font-normal hover:text-[#e70302] transition-all"
                 >
-                  Careers
+                  Lowongan Pekerjaan
                 </a>
               </li>
               <li>
@@ -37,13 +37,13 @@ function Footer() {
                   href="#"
                   className="font-light text-[#e46161] hover:font-normal hover:text-[#e70302] transition-all"
                 >
-                  Blog
+                  Artikel
                 </a>
               </li>
             </ul>
           </div>
           <div className="flex flex-col gap-5">
-            <h1 className="font-bold text-[20px]">Connections</h1>
+            <h1 className="font-bold text-[20px]">Social Media</h1>
             <ul className="flex flex-col gap-5">
               <li>
                 <a
@@ -80,14 +80,14 @@ function Footer() {
             </ul>
           </div>
           <div className="flex flex-col gap-5">
-            <h1 className="font-bold text-[20px]">Earnings</h1>
+            <h1 className="font-bold text-[20px]">Partnership</h1>
             <ul className="flex flex-col gap-5">
               <li>
                 <a
                   href="#"
                   className="font-light text-[#e46161] hover:font-normal hover:text-[#e70302] transition-all"
                 >
-                  Become Affiliate
+                  Bergabung Mitra
                 </a>
               </li>
               <li>
@@ -95,7 +95,7 @@ function Footer() {
                   href="#"
                   className="font-light text-[#e46161] hover:font-normal hover:text-[#e70302] transition-all"
                 >
-                  Advertise Product
+                  Iklan
                 </a>
               </li>
               <li>
@@ -103,20 +103,20 @@ function Footer() {
                   href="#"
                   className="font-light text-[#e46161] hover:font-normal hover:text-[#e70302] transition-all"
                 >
-                  Sell On Market
+                  Jual Produk
                 </a>
               </li>
             </ul>
           </div>
           <div className="flex flex-col gap-5">
-            <h1 className="font-bold text-[20px]">Account</h1>
+            <h1 className="font-bold text-[20px]">Akun</h1>
             <ul className="flex flex-col gap-5">
               <li>
                 <a
                   href="#"
                   className="font-light text-[#e46161] hover:font-normal hover:text-[#e70302] transition-all"
                 >
-                  Your Account
+                  Profil Kamu
                 </a>
               </li>
               <li>
@@ -124,7 +124,7 @@ function Footer() {
                   href="#"
                   className="font-light text-[#e46161] hover:font-normal hover:text-[#e70302] transition-all"
                 >
-                  Return Center
+                  Pusat Pengembalian
                 </a>
               </li>
               <li>
@@ -132,7 +132,7 @@ function Footer() {
                   href="#"
                   className="font-light text-[#e46161] hover:font-normal hover:text-[#e70302] transition-all"
                 >
-                  Chat With Us
+                  Hubungi Kami
                 </a>
               </li>
               <li>
@@ -140,7 +140,7 @@ function Footer() {
                   href="#"
                   className="font-light text-[#e46161] hover:font-normal hover:text-[#e70302] transition-all"
                 >
-                  Help
+                  Bantuan
                 </a>
               </li>
             </ul>
