@@ -13,7 +13,7 @@ import Topmenu from "./components/Topmenu";
 function App() {
   return (
     <div className="scroll-smooth bg-mainBg transition-all">
-      <section id="atas">
+      <section id="menu">
         <Topmenu />
       </section>
       <Header />
