@@ -6,7 +6,7 @@ function Topmenu() {
       <div className="container mx-auto flex py-3">
         <div className="flex justify-between items-start w-4/12 cursor-pointer">
           <h3 className="text-[#ff9191] hover:text-[#e70302] transition-all">
-            Chat With Us
+            Hubungi Kami
           </h3>
           <h3>+62 811-1260-555</h3>
           <h3>info@cikandeindobaja.co.id</h3>
